@@ -11,7 +11,7 @@ The SOLTECH Blockchain can be used to process payments fast with extremely low g
 
 # CraazyCoin - CrazyBabyNFT
 CrazyCoin on the otherhand is an NFT Token based on the Solana Blockchain which powers the sale of the CrazyBabyNFT.
-# CrazyBabyNFT can be found on our Opensea and Rarible Pages.
+# CrazyBabyNFT can be found on:
 Opensea Link: https://opensea.io/CrazyBaby-NFT
 Rarible Link: https://rarible.com/user/0x305f25fa326d453309079c2196e3ac2dbdeabdf6/sale
 Twitter Link: https://twitter.com/crazybabynft

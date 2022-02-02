@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ob1iviou5
-- 👀 I’m interested in Solana and Etherium
-- 🌱 I’m currently learning to create tokens and code a blockchain
-- 💞️ I’m looking to collaborate on building a new blockchain and coin
+- 👋 Hi, I’m @Ob1iviou5,
+- 👀 I’m interested in Token Creation and Blockchains,
+- 🌱 I’m currently learning to create and code a blockchain,
+- 💞️ I’m looking to collaborate on building a new blockchain and coin,
 - 📫 How to reach me: You can get me @ zain.ali.abbas@gmail.com
 
 - I'm Currently Working on:

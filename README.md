@@ -18,7 +18,7 @@ Phase 2 of the Colelction will see another 10K specially Mutated Zombies Come to
 Phase 3 will be Zombie Dogs and Crows.
 
 # Zombie Horde Hiking Club can be found on:
-Website Link (NFT): https://www.zombiehikeclub.com
+Website Link (NFT): https://zombiehikeclub.com/
 
 # Socials
 Opensea Link: https://opensea.io/CrazyBaby-NFT

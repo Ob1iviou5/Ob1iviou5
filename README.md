@@ -14,7 +14,7 @@ CrazyCoin on the otherhand is an NFT Token based on the Solana Blockchain. The C
 
 # The Zombie Horde Hiking Club.:
 The Zombie Horde Hiking Club is the Largest Zombie Horde NFT Collection on the Web3. the Initial Drop of 10K Zombies is the starting Horde Collection. 
-Phase 2 of the Colelction will see another 10K specially Mutated Zombies Come to Life.
+Phase 2 of the Collection will see another 10K specially Mutated Zombies Come to Life.
 Phase 3 will be Zombie Dogs and Crows.
 
 # Zombie Horde Hiking Club can be found on:

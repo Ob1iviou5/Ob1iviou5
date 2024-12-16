@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Ob1iviou5,
+- 👋 Hi, I’m @OB33WAN,
 - 👀 I’m interested in App and Website Design and Development and AI,
-- 📫 How to reach me: You can get me @ support@w3buk.com
+- 📫 How to reach me: You can get me @ zain.ali.abbas@gmail.com
 
 - I'm Currently Working on:
 # Different Apps for Release onto Play store
 #  Different Websites for business releases
+# New Crypto Currency PoW
 
 <!---
 Ob1iviou5/Ob1iviou5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

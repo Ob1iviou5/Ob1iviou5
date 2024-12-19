@@ -3,9 +3,9 @@
 - 📫 How to reach me: You can get me @ zain.ali.abbas@gmail.com
 
 - I'm Currently Working on:
-Different Apps for Release onto Play store
-Different Websites for business releases
-New Crypto Currency
+Different Apps for Release onto Play store, 
+Different Websites for business releases, 
+New Crypto Currency and blockchain development.
 
 <!---
 Ob1iviou5/Ob1iviou5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
